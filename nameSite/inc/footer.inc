@@ -1,12 +1,19 @@
  <!-- FOOTER -->
       
-      <footer>
-        <p class="pull-right">© 2014 StevenWerner.Name</p>
-        <p>Currently: El Paso, Texas</p>
-      </footer>
-
-    </div><!-- /.container -->
-
+     </div><!-- /.container -->
+    
+    <footer class="footer">
+      <div class="footer-container">
+        <p class="text-muted pull-left">Dallas, Texas</p>
+        <p class="text-muted pull-right">&copy; 2014 – 
+	   <?php 
+		echo date('Y');
+		echo ' ';
+		echo $_SERVER['HTTP_HOST'];
+	   ?> 
+	</p>
+      </div><!-- /.container -->
+    </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -9,7 +9,6 @@ require_once("../inc/header.inc");
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:">
           <div class="container">
             <div class="carousel-caption">
 	      <p><a href="http://en.wikipedia.org/wiki/Al_Asad_Airbase"  target="_blank"><img
@@ -19,6 +18,7 @@ require_once("../inc/header.inc");
             </div>
           </div>
         </div>
+      </div>
     </div><!-- /.carousel -->
 
     <br/>

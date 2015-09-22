@@ -10,7 +10,6 @@ require_once("../inc/header.inc");
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:">
           <div class="container">
             <div class="carousel-caption">
 	      <p><a href="http://www.isca-speech.org/archive/interspeech_2013/i13_1569.html"  target="_blank"><img
@@ -20,6 +19,7 @@ require_once("../inc/header.inc");
             </div>
           </div>
         </div>
+      </div>
     </div><!-- /.carousel -->        
 
     <!-- Marketing messaging and featurettes
@@ -35,7 +35,7 @@ require_once("../inc/header.inc");
 	<div class="row">
 	  <div class="center-block">
 	 <object data="../documents/Werner-Resume.pdf" type="application/pdf" width="100%" height="2145">
-  		<p><a href="../documents/Werner-Resume.pdf">PDF Résumé</a></p>
+  		<p>Your device is unable to view embedded PDFs :( <a href="../documents/Werner-Resume.pdf">Click to open cv</a>)</p>
 	</object>
 	</div>
 	</div>

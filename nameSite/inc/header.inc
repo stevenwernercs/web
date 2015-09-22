@@ -23,7 +23,9 @@
 
     <!-- Custom styles for this template -->
     <link href="http://getbootstrap.com/examples/carousel/carousel.css" rel="stylesheet">
-  <style type="text/css"></style><style id="holderjs-style" type="text/css"></style></head>
+  <style type="text/css"></style><style id="holderjs-style" type="text/css"></style>
+  <link href="../inc/style.css" rel="stylesheet">	
+</head>
 <!-- NAVBAR
 ================================================== -->
   <body role="document">
@@ -43,7 +45,8 @@
               <ul class="nav navbar-nav">
 	        <?php if($pageName=="home"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="index.php">home</a></li>
 	        <?php if($pageName=="about"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="about.php">about</a></li>
-	        <?php if($pageName=="likes"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="blog.php">blog</a></li>
+	        <?php if($pageName=="tweets"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="tweets.php">tweets</a></li>
+	        <?php if($pageName=="likes"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="likes.php">likes</a></li>
 	        <?php if($pageName=="education"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="education.php">education</a></li>
 	        <?php if($pageName=="projects"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="projects.php">projects</a></li>
 	        <?php if($pageName=="resume"){echo "<li class=\"active\">";}else{echo "<li>";}?><a href="cv.php">curriculum vitae</a></li>
