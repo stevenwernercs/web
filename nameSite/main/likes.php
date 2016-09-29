@@ -58,7 +58,11 @@ require_once("../inc/header.inc");
         optomization problems. Maybe in the near future we will be
         able to do exaustive debugging, and enough power to
        compute millions of atomic reations, redifining molecular
-        dynamics simulations.</p>
+        dynamics simulations.<br/>
+	Although there are major concerns about computer security; 
+	A single quantum computer in the wrong hands is more 
+	dangerous than weapons of mass distruction. (Yet I don't see much chatter about this aspect of QC)
+	</p>
         </div>
       </div>
 
@@ -67,17 +71,20 @@ require_once("../inc/header.inc");
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Cryptocurrency: <span
-        class="text-muted">like <a href="http://www.dwavesys.com/" target="_blank"><i>bitcoin</i></a></span></h2>
+        class="text-muted">like <a href="http://www.bitcoin.org/" target="_blank"><i>bitcoin</i></a></span></h2>
           <p class="lead">The potiental for changing how governments
-        and economies work is unthinkable. Might as well outlaw
-        fractional reserve banking while we're at it. This is my
+        and economies work is unthinkable... Fractional reserve banking 
+	will also be a thing of the past. Blockchain voting will 
+	fundamentally change the world. This is my
         <i>bitcoin</i> deposit address, feel free to
         send some bits my way.<br/>
-	<a href="http://www.bitlisten.com/" target="_blank">ListenToBitcoin.com</a></p>
+	<a href="http://www.bitlisten.com/" target="_blank">BitListen.com</a><br/>
+	BlockChain voting: <a href="https://www.followmyvote.com/" target="_blank">FollowMyVote</a> &amp; <a href="http://www.democracy.earth/" target="_blank">Democracy Earth</a>
+	  </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive"
-        src="../img/square/bitcoinbank.jpg" title="feel free to deposit to my bitcoin wallet" style="width: 400px; height: 400px;">
+        src="../img/square/wallet.png" title="feel free to deposit to my bitcoin wallet" style="width: 400px; height: 400px;">
         </div>
       </div>
 
@@ -104,8 +111,8 @@ require_once("../inc/header.inc");
         class="text-muted">Trappists & IPAs</span></h2>
           <p class="lead">After a project goal is met, slow sipping some good strong craft
 	beer with close friends or colleagues is a great low-key relaxing way to take
-	a load off. Pair a nice bitter extra hoppy IPA with a good cheese selection or some 
-	appetizers for a perfect night.
+	a load off. For me pairing a nice bitter extra hoppy IPA with a good cheese selection or some 
+	appetizers makes for a perfect night.
 	<br/>
         </div>
         <div class="col-md-5">
