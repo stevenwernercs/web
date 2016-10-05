@@ -6,7 +6,8 @@
       <div class="footer-container">
         <p class="text-muted pull-left">Dallas, Texas</p>
         <p class="text-muted pull-right">&copy; 2014 – 
-	   <?php 
+	   <?php
+		date_default_timezone_set('US/Central');
 		echo date('Y');
 		echo ' ';
 		echo $_SERVER['HTTP_HOST'];
