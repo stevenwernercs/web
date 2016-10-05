@@ -59,9 +59,9 @@ require_once("../inc/header.inc");
         able to do exaustive debugging, and enough power to
        compute millions of atomic reations, redifining molecular
         dynamics simulations.<br/>
-	Although there are major concerns about computer security; 
-	A single quantum computer in the wrong hands is more 
-	dangerous than weapons of mass distruction. (Yet I don't see much chatter about this aspect of QC)
+	Although I have major concerns about computer security with this kind of power; 
+	I think a single quantum computer in the wrong hands is more 
+	dangerous than weapons of mass distruction, and I'm not sure about what is being done about this.
 	</p>
         </div>
       </div>
@@ -109,7 +109,7 @@ require_once("../inc/header.inc");
         <div class="col-md-7">
           <h2 class="featurette-heading">Craft Beer: <span
         class="text-muted">Trappists & IPAs</span></h2>
-          <p class="lead">After a project goal is met, slow sipping some good strong craft
+          <p class="lead">After rough day, slow sipping some good strong craft
 	beer with close friends or colleagues is a great low-key relaxing way to take
 	a load off. For me pairing a nice bitter extra hoppy IPA with a good cheese selection or some 
 	appetizers makes for a perfect night.
