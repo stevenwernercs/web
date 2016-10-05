@@ -22,7 +22,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="http://getbootstrap.com/examples/carousel/carousel.css" rel="stylesheet">
+    <link href="../Bootstrap_files/css/carousel.css" rel="stylesheet">
   <style type="text/css"></style><style id="holderjs-style" type="text/css"></style>
   <link href="../inc/style.css" rel="stylesheet">	
 </head>

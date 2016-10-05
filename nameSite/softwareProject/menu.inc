@@ -1,11 +1,11 @@
     <title><?php echo $pageName?> Page</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="http://getbootstrap.com/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="../Bootstrap_files/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="http://getbootstrap.com/examples/jumbotron/jumbotron.css" rel="stylesheet">
-    
+    <link href="../Bootstrap_files/css/jumbotron.css" rel="stylesheet">
+ 
     	<style type="text/css"></style></head>
 
   <body style="">
